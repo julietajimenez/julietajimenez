@@ -1,7 +1,7 @@
 ### Hola soy Romi Jimenez 👋
 Una nueva programadora con muchas ganas de aprender y desarrollarme en este mundo, me encanta trabajar en equipo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julietajimenez&show_icons=true&theme=radical)
-### Experiencia:
+### Lenguajes y herramientas:
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -19,5 +19,7 @@ Una nueva programadora con muchas ganas de aprender y desarrollarme en este mund
 ###  📫 Contactame:
 <div>
   <a href="https://www.linkedin.com/in/romijulietajimenez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </div>
+ <div>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a href=""><p>romijimenez06@gmail.com</p></a>
 </div>
