@@ -1,5 +1,8 @@
-### Hola soy Romi Jimenez 👋
-Una nueva programadora con muchas ganas de aprender y desarrollarme en este mundo, me encanta trabajar en equipo
+
+![hello](https://user-images.githubusercontent.com/89227373/199618565-6b0835ac-82b6-4579-bdf7-55e3761944d2.gif)
+### Soy Romi Jimenez 👋 FullStack Developer 
+Una nueva programadora con muchas ganas de aprender y desarrollarme en el apasionante mundo de la programación, me encanta trabajar en equipo, me gustan los desafíos y los emprendo con entusiasmo, empeño y determinación.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julietajimenez&show_icons=true&theme=radical)
 ### Lenguajes y herramientas:
 <div>
